@@ -1,16 +1,16 @@
 item {
     id: 1
-    name: 'Raspberry_Pi_3'
+    name: '1'
 }
 item {
     id: 2
-    name: 'Arduino_Nano'
+    name: '2'
 }
 item {
     id: 3
-    name: 'ESP8266'
+    name: '3'
 }
 item {
     id: 4
-    name: 'Heltec_ESP32_Lora'
+    name: '4'
 }
